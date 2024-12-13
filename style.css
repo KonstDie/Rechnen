@@ -40,7 +40,7 @@ td:hover{
     background-color: rgb(30,30,30);
 }
 .highlight:hover{
-    background-color: rgb(280, 150, );
+    background-color: rgb(40,40,40);
     cursor: pointer;
     transition: 0.25s ease-in-out;
 }
