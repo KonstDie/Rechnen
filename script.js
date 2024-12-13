@@ -3,6 +3,6 @@ function addNumber(number){
 }
 function calculate(){
      let container = document.getElementById('resultArea');
-     let result = eval(container.innerHTML);
+     let result = eval(container);
      container.innerHTML = result ;
 }
