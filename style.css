@@ -21,7 +21,7 @@ table{
 .equil{
     background-color: rgb(250, 110, 20);
 }
-.result{
+#result{
     height: 27vh;
     width: 100%;
 }
