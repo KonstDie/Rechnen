@@ -37,5 +37,10 @@ td:hover{
     transition: 0.25s ease-in-out;
 }
 .highlight{
-    background-color: rgb(20,20,20);
+    background-color: rgb(30,30,30);
+}
+.highlight:hover{
+    background-color: rgb(280, 150, );
+    cursor: pointer;
+    transition: 0.25s ease-in-out;
 }
