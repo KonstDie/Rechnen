@@ -6,5 +6,5 @@ function calculate(){
      document.getElementById('resultArea').innerHTML = result;
 }
 function delete(){
-     document.getElementById('resultArea').innerHTML = ;
+     document.getElementById('resultArea').innerHTML = 0 ;
 }
