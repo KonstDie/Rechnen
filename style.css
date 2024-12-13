@@ -34,5 +34,5 @@ td:hover{
 .equil:hover{
     background-color: rgb(280, 150, 50);
     cursor: pointer;
-    transition: 0.5s ease-in-out;
+    transition: 0.25s ease-in-out;
 }
