@@ -13,27 +13,27 @@
     <table>
         <tr class="row">
             <td onclick="addNumber(7)" >7</td>
-            <td>8</td>
-            <td>9</td>
+            <td onclick="addNumber(8)">8</td>
+            <td onclick="addNumber(9)">9</td>
             <td class="highlight">DEL</td>
         </tr>
         <tr class="row">
-            <td>4</td>
-            <td>5</td>
-            <td>6</td>
-            <td class="highlight">:</td>
+            <td onclick="addNumber(4)">4</td>
+            <td onclick="addNumber(5)">5</td>
+            <td onclick="addNumber(6)">6</td>
+            <td onclick="addNumber('÷')" class="highlight">÷</td>
         </tr>
         <tr class="row">
-            <td>1</td>
-            <td>2</td>
-            <td>3</td>
-            <td class="highlight">x</td>
+            <td onclick="addNumber(1)">1</td>
+            <td onclick="addNumber(2)">2</td>
+            <td onclick="addNumber(3)">3</td>
+            <td onclick="addNumber('x')" class="highlight">x</td>
         </tr>
         <tr class="row">
-            <td>0</td>
+            <td onclick="addNumber(0)">0</td>
             <td>.</td>
             <td id="result">=</td>
-            <td class="highlight">+</td>
+            <td onclick="addNumber('+')" class="highlight">+</td>
         </tr>
     </table>
 </body>
