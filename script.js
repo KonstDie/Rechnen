@@ -8,5 +8,5 @@ function calculate(){
 }
 function deleteAll(){
     let container = document.getElementById('resultArea');
-    container.innerHTML = container.innerHTML,slice(0,-1);
+    container.innerHTML = container.innerHTML.slice(0,-1);
 }
