@@ -24,13 +24,15 @@ table{
 #result{
     height: 27vh;
     width: 100%;
-}
+} 
 
 td:hover{
     background-color: rgb(60,60,60);
     cursor: pointer;
+    transition: 0.5s ease-in-out;
 }
 .equil:hover{
     background-color: rgb(280, 150, 50);
     cursor: pointer;
+    transition: 0.5s ease-in-out;
 }
