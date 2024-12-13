@@ -6,6 +6,3 @@ function calculate(){
      let result = eval(container.innerHTML);
      container.innerHTML = result ;
 }
-function nothing(){
-     document.getElementById('resultArea').innerHTML = 0 ;
-}
