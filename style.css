@@ -21,3 +21,8 @@ table{
 .equil{
     background-color: rgb(209, 95, 13);
 }
+.result{
+    background-color: aliceblue;
+    height: 30vh;
+    width: 100%;
+}
