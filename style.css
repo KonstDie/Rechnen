@@ -24,7 +24,7 @@ table{
     background-color: rgb(250, 110, 20);
 }
 #resultArea{
-    height: 27vh;
+    height: 30vh;
     width: 100%;
     font-size: 7vw;
     display: flex;
