@@ -4,7 +4,7 @@ body{
     font-family:Arial, Helvetica, sans-serif;
 }
 .row{
-
+    width: 100%;
 }
 td{
     background-color: rgb(50, 50, 50);
