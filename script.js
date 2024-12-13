@@ -3,7 +3,7 @@ function addNumber(number){
 }
 function calculate(){
      let result = document.getElementById('resultArea');
-     document.getElementById('resultArea').innerHTML = result;
+     result.innerHTML = Math(result)
 }
 function nothing(){
      document.getElementById('resultArea').innerHTML = 0 ;
