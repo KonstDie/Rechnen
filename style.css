@@ -25,6 +25,9 @@ table{
     height: 27vh;
     width: 100%;
     font-size: 10vw;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
 } 
 
 td:hover{
@@ -44,4 +47,4 @@ td:hover{
     background-color: rgb(40,40,40);
     cursor: pointer;
     transition: 0.25s ease-in-out;
-}
+} 
