@@ -1,3 +1,3 @@
-function appendoperation(number){
+function addNumber(number){
      document.getElementById('resultArea').innerHTML += number
 }
