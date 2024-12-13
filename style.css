@@ -24,6 +24,7 @@ table{
 #resultArea{
     height: 27vh;
     width: 100%;
+    font-size: 10vw;
 } 
 
 td:hover{
