@@ -20,7 +20,7 @@ table{
     width: 100%;
     height:70vh;
 }
-#result{
+#equil{
     background-color: rgb(250, 110, 20);
 }
 #resultArea{
@@ -37,7 +37,7 @@ td:hover{
     cursor: pointer;
     transition: 0.25s ease-in-out;
 }
-#result:hover{
+#equil:hover{
     background-color: rgb(280, 150, 50);
     cursor: pointer;
     transition: 0.25s ease-in-out;
