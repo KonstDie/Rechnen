@@ -19,6 +19,7 @@ td{
 table{
     width: 100%;
     height:70vh;
+    box-sizing: border-box;
 }
 #equil{
     background-color: rgb(250, 110, 20);
