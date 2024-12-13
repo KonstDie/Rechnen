@@ -6,6 +6,6 @@ function calculate(){
      let result = eval(container.innerHTML);
      container.innerHTML = result ;
 }
-function del(){
+function deleteAll(){
      document.getElementById('resultArea').innerHTML = none;
 }
