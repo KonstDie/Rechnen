@@ -24,7 +24,7 @@ table{
 #resultArea{
     height: 27vh;
     width: 100%;
-    font-size: 7.5vw;
+    font-size: 6vw;
     display: flex;
     justify-content: flex-end;
     align-items: flex-end;
