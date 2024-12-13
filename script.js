@@ -7,5 +7,6 @@ function calculate(){
      container.innerHTML = result ;
 }
 function deleteAll(){
-     document.getElementById('resultArea').innerHTML = none;
+    let container = document.getElementById('resultArea')
+    container.innerHTML = container.innerHTML,slice(0,-9999999999999999999999999)
 }
