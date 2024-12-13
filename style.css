@@ -30,6 +30,7 @@ table{
     display: flex;
     justify-content: flex-end;
     align-items: flex-end;
+    box-sizing: border-box;
 } 
 
 td:hover{
