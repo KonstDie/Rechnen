@@ -25,3 +25,7 @@ table{
     height: 27vh;
     width: 100%;
 }
+
+td:hover{
+    background-color: aqua;
+}
