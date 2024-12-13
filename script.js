@@ -5,6 +5,6 @@ function calculate(){
      let result = document.getElementById('resultArea')
      document.getElementById('resultArea').innerHTML = result;
 }
-function delete(){
+function nothing(){
      document.getElementById('resultArea').innerHTML = 0 ;
 }
