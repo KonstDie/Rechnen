@@ -17,12 +17,9 @@ function deleteLast(){
 }
 
 document.addEventListener("keydown", function(event) {
-     if (event.key === "a") {
+     if (event.key) {
           let number = event.key
           document.getElementById('resultArea').innerHTML += number;
-         document.body.style.backgroundColor = "lightblue"; 
-     } else if (event.key === "Enter") {
-         alert("Enter wurde gedrückt!");
      }
  });
  
