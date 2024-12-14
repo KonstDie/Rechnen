@@ -17,7 +17,7 @@ function deleteLast(){
 }
 
 document.addEventListener("keydown", function(event) {
-     if (event.key === 1-9) {
+     if (event.key === 0-9) {
           let number = event.key
           document.getElementById('resultArea').innerHTML += number;
      }
