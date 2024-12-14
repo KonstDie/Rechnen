@@ -17,7 +17,7 @@ function deleteLast(){
 }
 
 document.addEventListener("keydown", function(event) {
-     if (event.key) {
+     if (event.key === number) {
           let number = event.key
           document.getElementById('resultArea').innerHTML += number;
      }
