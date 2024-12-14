@@ -52,3 +52,6 @@ td:hover{
     cursor: pointer;
     transition: 0.25s ease-in-out;
 } 
+table{
+    border-spacing: 1v;
+}
